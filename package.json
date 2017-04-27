@@ -1,0 +1,21 @@
+{
+  "name": "event-horizon-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark syntax theme with bright, colorful and high-contrast text (based on SublimeText3 'Solar Sooty').",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark",
+    "solar",
+    "sooty",
+    "event",
+    "horizon",
+    "sublime"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/rafaelbdb/event-horizon-syntax",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
